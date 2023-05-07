@@ -17,3 +17,12 @@
   height: 100px;
   background-color: aqua;
 } */
+.dov3{
+    width: 375px;
+    height: 375px;
+    border: 5px solid red;
+    overflow: scroll;
+    /* overflow: hidden; */
+    /* overflow: auto; */
+    /* overflow: visible; */
+}
